@@ -20,3 +20,6 @@ string_cents = 'fifty cents'
 
 print(string_dollars + " " + string_cents)
 print(string_dollars, string_cents)
+
+dollarStr = '5 dollars'
+print(dollarStr)
