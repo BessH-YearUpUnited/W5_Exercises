@@ -1,6 +1,6 @@
-print('Hello world!')
+# print('Hello world!')
 
-
+# Printing message
 message = 'Hello world!'
 print(message)
 
@@ -23,3 +23,6 @@ print(string_dollars, string_cents)
 
 dollarStr = '5 dollars'
 print(dollarStr)
+
+date1 = 12-30-1981
+print(date1)
